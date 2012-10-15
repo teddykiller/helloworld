@@ -1,12 +1,9 @@
 helloworld
 ==========
 
-<html>
-<head>
-my world;
-</head>
-<body>
-<p>my world</p>
-your sister~~
-</body>
-</html>
+#include <iostream>
+using namespace std;
+main(){
+  cout<<"hello world"<<end1;
+  return 0;
+)
